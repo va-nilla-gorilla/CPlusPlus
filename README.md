@@ -10,5 +10,5 @@
 
 
 <a href="https://github.com/va-nilla-gorilla/CPlusPlus/tree/main/Project2/Project2/src
-"<h4>Compound Interest Calc</h4></a>
+"Compound Interest Calc.</a>
 
