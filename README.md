@@ -7,8 +7,8 @@
 <h4>12hr & 24hr Clock</h4>
 
 <h3>Project Two</h3>
-<h4>Compound Interest Calc</h4>]
+
 
 <a href="https://github.com/va-nilla-gorilla/CPlusPlus/tree/main/Project2/Project2/src
-">Press Me...</a>
+"<h4>Compound Interest Calc</h4></a>
 
