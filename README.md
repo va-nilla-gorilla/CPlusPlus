@@ -1,2 +1,2 @@
-![Screenshot](screenshot.png)
+![thumbnail_IMG_0037.jpg](screenshot.png)
 # CPlusPlus
