@@ -26,8 +26,6 @@ void t_printReport_B();
 void t_mainDisplay_A();
 void t_mainDisplay_B();
 void t_userRequest();
-void t_balancesWithoutDeposits();
-void t_balancesWithDeposits();
 void t_userInitInvestAmnt();
 void t_userMonthlyDep();
 void t_userAnnualIntRate();
