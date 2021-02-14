@@ -3,13 +3,6 @@
  * Description: AirgeadBanking.h
  * Description:
  * Description:
- *
- * Class: CS-210-T3188
- * Author: Uriah L.Fadum
- * VM Author ID: 1586472_snhu
- * Instructor: Linda Noss
- * Created on: Dec 26, 2020
- * Due Date: Feb 7, 2021
  */
 
 #ifndef AIRGEADBANKING_H_
