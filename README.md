@@ -56,4 +56,4 @@
 
 <h3>_______</h3>
 
-<a href="https://www.linkedin.com/in/ist1774/">LinkedIn Profile</a>
+<a href="https://www.linkedin.com/in/uriah-fadum-info-sec-tech-llc">LinkedIn Profile</a>
