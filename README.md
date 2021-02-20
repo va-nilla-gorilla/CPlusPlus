@@ -6,9 +6,10 @@
 <h3>_______</h3>
 
 <h1>Project One</h1>
+<p style="text-decoration: underline;">This text will be underlined.</p>
 <a href="https://github.com/va-nilla-gorilla/CPlusPlus/tree/main/Project1/Project1/src">12hr & 24hr Clock</a>
 <h3>Summarize the project and what problem it was solving.</h3>
-<h4>***INPUT TEXT HERE***</h4>
+<h4>This project addressed the task of creating code to display a 12hr & 24hr clock with the ability to manipulate each time element.</h4>
 <h3>What did you do particularly well?</h3>
 <h4>***INPUT TEXT HERE***</h4>
 <h3>Where could you enhance your code? How would these improvements make your code more efficient, secure, and so on?</h3>
@@ -26,7 +27,7 @@
 <a href="https://github.com/va-nilla-gorilla/CPlusPlus/tree/main/Project2/Project2/src">Compound Interest Calc.</a>
 <h3>Summarize the project and what problem it was solving.</h3>
 <h4>***INPUT TEXT HERE***</h4>
-<h3>What did you do particularly well?</h3>
+<h3><p><u>What did you do particularly well?</u></p></h3>
 <h4>***INPUT TEXT HERE***</h4>
 <h3>Where could you enhance your code? How would these improvements make your code more efficient, secure, and so on?</h3>
 <h4>***INPUT TEXT HERE***</h4>
