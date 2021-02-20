@@ -16,7 +16,7 @@
 <h3>Did you find writing any piece of this code challenging, and how did you overcome this? What tools and/or resources are you adding to your support network?</h3>
 <h4>At first, I was a little confused on how to import the time in C++ since it was my first real time coding with C++. After researching different ways of handling time in C++, I started to mess around with different options. I first started to use the chrono methods within C++ and messed around a little with string manipulation, but after realizing that it was way more efficient to use ctime, I decide to go with that route... One site that is a great go-to is www.cplusplus.com & www.stackoverflow.com. Both these sites are great places to research different ways of hanlding a task or problem when coding.</h4>
 <h3>What skills from this project will be particularly transferable to other projects and/or course work?</h3>
-<h4>***INPUT TEXT HERE***</h4>
+<h4>Every skill that I used in this project was used within every subsequent project. This was my first attempt at using pointers and references within a program and this definitely helped in later projects. </h4>
 <h3>How did you make this program maintainable, readable, and adaptable?</h3>
 <h4>***INPUT TEXT HERE***</h4>
 
