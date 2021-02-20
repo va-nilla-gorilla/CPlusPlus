@@ -6,12 +6,11 @@
 <h3>_______</h3>
 
 <h1>Project One</h1>
-<p style="text-decoration: underline;">This text will be underlined.</p>
 <a href="https://github.com/va-nilla-gorilla/CPlusPlus/tree/main/Project1/Project1/src">12hr & 24hr Clock</a>
 <h3>Summarize the project and what problem it was solving.</h3>
 <h4>This project addressed the task of creating code to display a 12hr & 24hr clock with the ability to manipulate each time element.</h4>
 <h3>What did you do particularly well?</h3>
-<h4>***INPUT TEXT HERE***</h4>
+<h4>I think the part I did exceptionally well was making sure that both clocks mirrored the time correctly and rolled over from 11:59:59PM to 12AM/00AM without any issues. Another part that I feel that I did well on was making the code as minimal as possible.</h4>
 <h3>Where could you enhance your code? How would these improvements make your code more efficient, secure, and so on?</h3>
 <h4>***INPUT TEXT HERE***</h4>
 <h3>Did you find writing any piece of this code challenging, and how did you overcome this? What tools and/or resources are you adding to your support network?</h3>
