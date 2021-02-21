@@ -66,7 +66,7 @@
 
 <h1>Project Three</h1>
 
-<a href="https://github.com/va-nilla-gorilla/CPlusPlus">Under Construction...</a>
+<a href="https://github.com/va-nilla-gorilla/CPlusPlus/tree/main/Project3/TheZoo/src">Wildlife Zoo Tracking System</a>
 
 <h3>Summarize the project and what problem it was solving.</h3>
 
