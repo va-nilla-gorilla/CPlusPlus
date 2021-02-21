@@ -18,7 +18,7 @@
 
 <h3>Where could you enhance your code? How would these improvements make your code more efficient, secure, and so on?</h3>
 
-<h4>One idea that I could of made the code better or more secure, would of been to seperate the code in the main function into seperate struct's or classes w/ private class variables. This would then secure that ability to manipulate the time elements, thus making it secure and more alinged with OOP principles.</h4>
+<h4>One idea that could of made the code better or more secure, would of been to seperate the code in the main function into seperate struct's or classes w/ private class variables. This would then secure that ability to manipulate the time elements, thus making it secure and more alinged with OOP principles.</h4>
 
 <h3>Did you find writing any piece of this code challenging, and how did you overcome this? What tools and/or resources are you adding to your support network?</h3>
 
