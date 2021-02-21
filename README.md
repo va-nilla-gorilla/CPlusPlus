@@ -2,8 +2,6 @@
 
 <h2 align="center"> Welcome to my C++ Github Repository...</h2>
 
-<h3>_______</h3>
-
 <h1>Project One</h1>
 
 <a href="https://github.com/va-nilla-gorilla/CPlusPlus/tree/main/Project1/Project1/src">12hr & 24hr Clock</a>
@@ -31,8 +29,6 @@
 <h3>How did you make this program maintainable, readable, and adaptable?</h3>
 
 <h4>I think that my ability to make the code as clear as possible was the main aspect in this project, making it maintainable and easily changed if necessary. Also, the simplicity and use of non-OS dependent features (e.g., clearScreen() function), makes the transfer of this program to any OS possible.</h4>
-
-<h3>_______</h3>
 
 <h1>Project Two</h1>
 
@@ -63,8 +59,6 @@ Nullam malesuada blandit ultrices. Nulla diam nisi, porta tincidunt vulputate ti
 <h3>How did you make this program maintainable, readable, and adaptable?</h3>
 
 <h4>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ullamcorper vitae justo eget rutrum. Donec at lacinia odio, sed finibus magna. Vivamus dignissim elementum tempus. Integer quis erat sed ante cursus faucibus. Etiam hendrerit sapien lectus, faucibus laoreet sem ullamcorper.</h4>
-
-<h3>_______</h3>
 
 <h1>Project Three</h1>
 
