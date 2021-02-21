@@ -18,11 +18,11 @@
 
 <h3>Where could you enhance your code? How would these improvements make your code more efficient, secure, and so on?</h3>
 
-<h4>One idea that could of made the code better or more secure, would of been to seperate the code in the main function into seperate struct's or classes w/ private class variables. This would then secure that ability to manipulate the time elements, thus making it secure and more alinged with OOP principles.</h4>
+<h4>One idea that could of made the code better or more secure, would of been to seperate the code in the main function into seperate struct's or classes w/ private class variables. This would then secure the ability to globally manipulate the each time element, therfore making it secure and more alinged with OOP principles.</h4>
 
 <h3>Did you find writing any piece of this code challenging, and how did you overcome this? What tools and/or resources are you adding to your support network?</h3>
 
-<h4>At first, I was a little confused on how to import the time in C++ since it was my first real time coding with C++. After researching different ways of handling time in C++, I started to mess around with different options. I first started to use the chrono methods within C++ and messed around a little with string manipulation, but after realizing that it was way more efficient to use ctime, I decide to go with that route... One site that is a great go-to is www.cplusplus.com & www.stackoverflow.com. Both these sites are great places to research different ways of hanlding a task or problem when coding.</h4>
+<h4>Considering this is my first time coding with C++, I was a little confused on how to import the time. After researching different ways of handling time in C++, I started to mess around with different options. I first started to use the chrono methods within C++ and messed around a little with string manipulation, but after realizing that it was way more efficient to use ctime with references and pointers, I decide to go with that route... When faced with different obsticles along the way, I relied on both www.cplusplus.com & www.stackoverflow.com. Both these sites are great places to research different ways of hanlding a task or problem when coding.</h4>
 
 <h3>What skills from this project will be particularly transferable to other projects and/or course work?</h3>
 
