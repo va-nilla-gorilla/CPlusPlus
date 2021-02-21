@@ -3,13 +3,6 @@
  * Description: Mammal.cpp
  * Description:
  * Description:
- *
- * Class: CS-210-T3188
- * Author: Uriah L.Fadum
- * VM Author ID: 1586472_snhu
- * Instructor: Linda Noss
- * Created on: Feb 12, 2021
- * Due Date: Feb 21, 2021
  */
 
 // Shows 80 Char width & also helps separate code while working on it
