@@ -54,11 +54,11 @@ Nullam malesuada blandit ultrices. Nulla diam nisi, porta tincidunt vulputate ti
 
 <h3>Did you find writing any piece of this code challenging, and how did you overcome this? What tools and/or resources are you adding to your support network?</h3>
 
-<h4>***INPUT TEXT HERE***</h4>
+<h4>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi gravida nisl eget finibus ultricies. Suspendisse potenti. Vivamus eu nulla luctus, venenatis turpis eget, porta leo. Cras malesuada tortor enim, sed suscipit neque fermentum ac. Morbi sed sagittis lorem. Donec sed augue quis neque viverra pretium sit amet sed ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vel lorem a enim laoreet tincidunt. Mauris facilisis metus in vehicula laoreet. Integer semper lectus non metus convallis finibus. In sollicitudin ligula id justo bibendum mattis./h4>
 
 <h3>What skills from this project will be particularly transferable to other projects and/or course work?</h3>
 
-<h4>***INPUT TEXT HERE***</h4>
+<h4>Donec nec dolor euismod, congue urna sit amet, dapibus augue. Vivamus tincidunt ex vel leo congue vehicula. Sed mattis ac neque ut dapibus. Maecenas sodales aliquet pretium. Mauris ut felis ullamcorper, bibendum purus sed, pellentesque orci. Morbi at nulla nec diam auctor maximus non sed urna. Ut feugiat rutrum odio, sed tincidunt odio commodo in. Proin velit libero, rhoncus posuere mattis vitae, ultrices sit amet ex.</h4>
 
 <h3>How did you make this program maintainable, readable, and adaptable?</h3>
 
