@@ -14,7 +14,6 @@
  *  practices throughout                                           *
 \*******************************************************************/
 
-//FIXME WHEN ZOODATA.TXT FILE IS ADDED TO VECTOR W/ MULTIABLE DATA, IT PRINTS LAST ENTRY TWICE WHEN DISPLAY ANIMAL FUNCTION IS CALLED
 
 //---------------------------->80  CHAR WIDTH<--------------------------------//
 
