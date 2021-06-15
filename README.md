@@ -88,6 +88,4 @@ Nullam malesuada blandit ultrices. Nulla diam nisi, porta tincidunt vulputate ti
 
 <h4>Donec sit amet leo rutrum, condimentum elit sit amet, ornare augue. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce ut ultricies nisi. Pellentesque pretium enim sed orci consectetur pharetra vitae eu felis. Etiam erat libero, rutrum quis mauris quis, convallis imperdiet urna. Vivamus eu tristique magna. Donec sit amet sapien imperdiet, sollicitudin dolor non, eleifend diam. Donec dui sem, finibus ultrices dui nec, mattis tincidunt enim. Curabitur ac lacus sit amet tellus rutrum tempor ut eget velit. Curabitur imperdiet tortor sed interdum molestie./h4>
 
-<h3>_______</h3>
-
-<a href="https://www.linkedin.com/in/uriah-fadum-info-sec-tech-llc">LinkedIn Profile</a>
+  <h3>_______</h3>
