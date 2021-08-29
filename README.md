@@ -1,6 +1,6 @@
 <p align="center"><img src="https://github.com/va-nilla-gorilla/CPlusPlus/blob/main/thumbnail_IMG_0037.jpg?raw=true" width="175" title="hover text"></p>
 
-<h2 align="center"> Welcome to my C++ Github Repository...</h2>
+<h2 align="center"> Welcome to my C++ GitHub Repository...</h2>
 
 <h1>Project One</h1>
 
